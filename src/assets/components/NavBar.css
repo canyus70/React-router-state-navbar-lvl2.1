@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+a {
+    text-decoration: none;
+}
+.active {
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 3px;
+    color: rgba(121, 16, 227, 0.8);
+    background-color: papayawhip;
+}
